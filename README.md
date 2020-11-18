@@ -39,6 +39,7 @@ Email: holly.ansel AT duke.edu
 {% tab title="Andres Montoya" %}
 ```text
 Ask me about: 
+- game application 
 
 Email: andres.montoyaaristizabal AT duke.edu
 ```
@@ -57,7 +58,7 @@ Email: jacob.derry AT duke.edu
 
 {% tab title="Jessica Su" %}
 ```text
-Ask me about: 
+Ask me about:
 - Frontend Application
 - Interactions between frontend and backend API
 
