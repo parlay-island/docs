@@ -22,7 +22,7 @@ The variables include:
 The variables include:
 
 * `BACKEND_API_URL` - the url to the backend you would like to use
-* `GAME_VERSION` - the game version that the frontend should point to \(the S3 bucket\)
+* `GAME_LINK` - the link to the Parlay Island game
 
 ### S3
 
