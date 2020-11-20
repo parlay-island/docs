@@ -39,7 +39,8 @@ Email: holly.ansel AT duke.edu
 {% tab title="Andres Montoya" %}
 ```text
 Ask me about: 
-- game application 
+- game application (any part of it)
+- testing in Unity
 
 Email: andres.montoyaaristizabal AT duke.edu
 ```
